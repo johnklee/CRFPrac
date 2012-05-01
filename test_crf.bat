@@ -1,0 +1,1 @@
+java -jar CRFPrac.jar -m=CRF -i="./Datas/Test/2010_11_08/20101108_0000.shopping_trail" -s="IR/Model/HN"

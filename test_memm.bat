@@ -1,0 +1,2 @@
+#java -jar CRFPrac.jar -i="./Datas/Test/2010_11_08/20101108_0000.shopping_trail" -s="IR/Model/MEMM/HN/DAY_11_07/stat.raw" -f="IR/Model/MEMM/HN/DAY_11_07/"
+java -jar CRFPrac.jar -i="./Datas/Test/2010_11_08/20101108_0400.shopping_trail" -s="IR/Model/MEMM/HN/Test/stat.raw" -f="IR/Model/MEMM/HN/Test/"

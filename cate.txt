@@ -1,0 +1,83 @@
+1 : Adult(A) : Adult / Mature Content
+3 : Adult(A) : Pornography
+4 : Adult(A) : Sex Education
+5 : Adult(A) : Intimate Apparel / Swimsuit
+6 : Adult(A) : Nudity
+8 : Adult(A) : Alcohol / Tobacco
+9 : Adult(A) : Illegal / Questionable
+10 : Adult(A) : Tasteless
+11 : Adult(A) : Gambling
+14 : Adult(A) : Violence / Hate / Racism
+15 : Adult(A) : Weapons
+16 : Adult(A) : Abortion
+18 : Lifestyle (L) : Recreation / Hobbies
+20 : Lifestyle (L) : Entertainment
+21 : Business (B) : Business / Economy
+22 : Lifestyle (L) : Cult / Occult
+23 : Internet Services (IS) : Internet Radio and TV
+24 : Interactions (I) : Internet Telephony
+25 : Adult(A) : Illegal Drugs
+26 : Adult(A) : Marijuana
+27 : Organizations (O) : Educations
+29 : Organizations (O) : Cultural Institutions
+30 : Organizations (O) : Activist Groups
+31 : Business (B) : Financial Services
+32 : Business (B) : Brokerage / Trading
+33 : Lifestyle (L) : Games
+34 : Organizations (O) : Government / Legal
+35 : Organizations (O) : Military
+36 : Organizations (O) : Political Parties
+37 : Organizations (O) : Health
+38 : Computers / Internet
+39 : Network Security (NS) : Proxy Avoidance
+40 : Internet Services (IS) : Search Engines / Portals
+41 : Infrastructure
+42 : Interactions (I) : Blogs / Web Communications
+43 : Internet Services (IS) : Photo Searches
+44 : Lifestyle (L) : Alternative Journals
+45 : Business (B) : Job Search / Careers
+46 : Organizations (O) : News / Media
+47 : Lifestyle (L) : Personals / Dating
+48 : Internet Services (IS) : Translators (circumvent filtering )
+49 : Lifestyle (L) : Reference
+50 : Interactions (I) : Social Networking
+51 : Interactions (I) : Chat / Instant Messaging
+52 : Interactions (I) : Email
+53 : Interactions (I) : Newsgroups
+54 : Lifestyle (L) : Religion
+55 : Personal Websites
+56 : Internet Services (IS) : Personal Network Storage / File Download Servers
+57 : Internet Services (IS) : Peer-to-Peer
+58 : Business (B) : Shopping
+59 : Business (B) : Auctions
+60 : Business (B) : Real Estate
+61 : Lifestyle (L) : Society / Lifestyle
+62 : Adult(A) : Gay / Lesbian
+63 : Lifestyle (L) : Sport Hunting and Gun Clubs
+64 : Lifestyle (L) : Restaurants / Dining / Food
+65 : Lifestyle (L) : Sports
+66 : Lifestyle (L) : Travel
+67 : Lifestyle (L) : Vehicles
+68 : Lifestyle (L) : Humor / Jokes
+69 : Internet Services (IS) : Streaming Media / MP3
+70 : Internet Services (IS) : Ringtones / Mobile Phone Downloads
+71 : Internet Services (IS) : Software Downloads
+72 : Internet Services (IS) : Pay to Surf
+73 : Network Security (NS) : Potentially Malicious Software
+74 : Network Security (NS) : Spyware
+75 : Network Security (NS) : Phishing
+76 : Network Security (NS) : Spam
+77 : Network Security (NS) : Adware
+78 : Network Security (NS) : Virus_Accomplice
+79 : Network Security (NS) : Disease_Vector
+80 : Network Security (NS) : Cookies
+81 : Network Security (NS) : Dialers
+82 : Network Security (NS) : Hacking
+83 : Network Security (NS) : Joke_Program
+84 : Network Security (NS) : Password_Cracking_App
+85 : Network Security (NS) : Remote_Access_Program
+86 : Made for AdSense sites (MFA)
+87 : Lifestyle (L) : For Kids
+88 : Web Ad (W) : Web Advertisement
+89 : Internet Services (IS) : Web Hosting
+90 : Unrated

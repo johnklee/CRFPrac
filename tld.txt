@@ -1,0 +1,22 @@
+AERO : sponsored : Reserved for members of the air-transport industry
+ARPA : infrastructure : Reserved exclusively to support operationally-critical infrastructural identifier spaces as advised by the Internet Architecture Board
+ASIA : sponsored : Restricted to the Pan-Asia and Asia Pacific community
+BIZ : generic-restricted : Restricted for Business
+CAT : sponsored : Reserved for the Catalan linguistic and cultural community
+COM : generic : Generic top-level domain
+COOP : sponsored : Reserved for cooperative associations
+EDU : sponsored : Reserved for post-secondary institutions accredited by an agency on the U.S. Department of Education's list of Nationally Recognized Accrediting Agencies
+GOV : sponsored : Reserved exclusively for the United States Government
+INFO : generic : Generic top-level domain
+INT : sponsored : Used only for registering organizations established by international treaties between governments
+JOBS : sponsored : Reserved to serve needs of the international human resource management community
+MIL : sponsored : Reserved exclusively for the United States Military
+MOBI : sponsored : Reserved for consumers and providers of mobile products and services
+MUSEUM : sponsored : Reserved for museums
+NAME : generic-restricted : Reserved for individuals
+NET : generic : Generic top-level domain
+ORG : generic : Generic top-level domain
+PRO : generic-restricted : Restricted to credentialed professionals and related entities
+TEL : sponsored : Reserved for businesses and individuals to publish their contact data
+TRAVEL : sponsored : Reserved for entities whose primary area of activity is in the travel industry
+XXX : sponsored : Reserved for the adult entertainment community

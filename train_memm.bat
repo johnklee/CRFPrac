@@ -1,0 +1,2 @@
+#java -jar CRFPrac.jar -t=train -i="Datas/Train/2010_11_07/20101107_0000.shopping_trail" -o="IR/Model/MEMM/HN/Test"
+java -jar CRFPrac.jar -t=train -s="IR/Model/MEMM/HN/Test/stat.raw" -f="IR/Model/MEMM/HN/Test/" -i="Datas/Train/2010_11_07/20101107_0200.shopping_trail" -o="IR/Model/MEMM/HN/Test"

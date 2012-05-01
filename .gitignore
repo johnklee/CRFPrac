@@ -1,6 +1,16 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+/bin
+/Datas
+/IR
+/John
+/CRFPrac.jar
+/memm_order1_tagged_data.txt
+/memm_order2_tagged_data.txt
+/memm_tagged_data.txt
+/ReadmeGit.txt
+/statistic_data.raw
+/statistic_order1_data.raw
+/statistic_order2_data.raw
+/tagged_data.txt
+/test_data.txt
+/test0.log
+/training_data.txt
